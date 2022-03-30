@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="FlatP.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="32" Y="25"/>
+        <UsageCount Value="212"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ValidArguments.inc"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="12"/>
+        <CursorPos X="70"/>
+        <UsageCount Value="212"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="my-units/General-Purpose-Units/ParameterManagerUnit.pp"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="119"/>
+        <CursorPos X="38" Y="147"/>
+        <UsageCount Value="212"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="my-units/ALogger/ALoggerUnit.pp"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="15"/>
+        <CursorPos X="53" Y="32"/>
+        <UsageCount Value="212"/>
+      </Unit>
+      <Unit>
+        <Filename Value="my-units/Unicode-Functions/WideStringUnit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="212"/>
+      </Unit>
+      <Unit>
+        <Filename Value="my-units/Threading/SyncUnit.pp"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="212"/>
+      </Unit>
+      <Unit>
+        <Filename Value="SchemaParserUnit.pp"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="293"/>
+        <CursorPos X="16" Y="311"/>
+        <UsageCount Value="212"/>
+        <Bookmarks Count="1">
+          <Item0 X="3" Y="164" ID="3"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="440"/>
+        <CursorPos X="35" Y="457"/>
+        <UsageCount Value="212"/>
+        <Bookmarks Count="2">
+          <Item0 X="16" Y="224" ID="2"/>
+          <Item1 X="38" Y="529" ID="1"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Examples/idl.flatdoc"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="23" Y="18"/>
+        <UsageCount Value="209"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../PB2PAS/PB2PAS.lpr"/>
+        <EditorIndex Value="10"/>
+        <CursorPos X="102" Y="17"/>
+        <UsageCount Value="106"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../PB2PAS/PBParserUnit.pp"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="1298"/>
+        <CursorPos X="109" Y="1312"/>
+        <UsageCount Value="106"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../PB2PAS/PBDefinitionUnit.pp"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="35"/>
+        <CursorPos Y="35"/>
+        <UsageCount Value="106"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="my-units/General-Purpose-Units/GenericCollectionUnit.pp"/>
+        <EditorIndex Value="8"/>
+        <CursorPos Y="14"/>
+        <UsageCount Value="106"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="my-units/General-Purpose-Units/MapUnit.pp"/>
+        <EditorIndex Value="9"/>
+        <UsageCount Value="106"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/local/share/src/fpc-3.3.1/fpc/packages/rtl-generics/src/generics.collections.pas"/>
+        <UnitName Value="Generics.Collections"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1308"/>
+        <CursorPos Y="1326"/>
+        <UsageCount Value="102"/>
+      </Unit>
+      <Unit>
+        <Filename Value="my-units/General-Purpose-Units/PathHelperUnit.pp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="25"/>
+        <UsageCount Value="13"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/local/share/src/fpc-3.3.1/fpc/rtl/inc/objpash.inc"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="207"/>
+        <CursorPos X="26" Y="222"/>
+        <UsageCount Value="61"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/local/share/src/fpc-3.3.1/fpc/rtl/objpas/sysutils/sysstrh.inc"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="220"/>
+        <CursorPos X="86" Y="248"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="150" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="178" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="203" TopLine="171"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="228" TopLine="196"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="280" Column="29" TopLine="252"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="108" Column="16" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="277" Column="26" TopLine="275"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="135" Column="18" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="279" Column="26" TopLine="277"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="154" Column="16" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="282" Column="3" TopLine="279"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="185" Column="16" TopLine="166"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="284" Column="3" TopLine="281"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="185" Column="16" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="212" Column="16" TopLine="193"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="286" Column="3" TopLine="283"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="239" Column="16" TopLine="220"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="288" Column="3" TopLine="285"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="239" Column="43" TopLine="222"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="263" Column="3" TopLine="235"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="237" Column="5" TopLine="236"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="218" Column="5" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="183" Column="5" TopLine="167"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="175" Column="5" TopLine="142"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="462" Column="3" TopLine="457"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="175" TopLine="158"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaDefinitionUnit.pp"/>
+        <Caret Line="457" Column="35" TopLine="440"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaParserUnit.pp"/>
+        <Caret Line="484" Column="37" TopLine="468"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaParserUnit.pp"/>
+        <Caret Line="339" Column="35" TopLine="323"/>
+      </Position>
+      <Position>
+        <Filename Value="SchemaParserUnit.pp"/>
+        <Caret Line="306" Column="10" TopLine="288"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default">
+        <Mode Name="default">
+          <local>
+            <CommandLineParams Value="--InputFile /tmp/amp-music.fbs"/>
+          </local>
+        </Mode>
+      </Modes>
+    </RunParams>
+    <HistoryLists>
+      <List Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="/usr/bin/gnome-terminal -t &apos;Lazarus Run Output&apos; -e &apos;$(LazarusDir)/tools/runwait.sh $(TargetCmdLine)&apos;"/>
+      </List>
+      <List Name="CommandLineParameters" Count="3">
+        <Item1 Value="--InputFile /tmp/amp-music.fbs"/>
+        <Item2 Value="--InputFile /tmp/tv.fbs"/>
+        <Item3 Value="--InputFile Examples/idl.flatdoc"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="SchemaParserUnit.pp"/>
+        <Line Value="401"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
